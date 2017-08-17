@@ -1301,3 +1301,9 @@ button:disabled:active, button:disabled:hover {
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
      SECTION 108(a)(3)).
 */
+
+
+
+#sponsor_list a.list-sponsor-logo {
+  display: inline-block;
+}
