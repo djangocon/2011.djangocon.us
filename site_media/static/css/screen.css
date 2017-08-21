@@ -1307,3 +1307,33 @@ button:disabled:active, button:disabled:hover {
 #sponsor_list a.list-sponsor-logo {
   display: inline-block;
 }
+
+#sponsor_list > article {
+  display: inline;
+  float: left;
+  width: 620px;
+  margin-right: 24px;
+  padding-left: 184px;
+  padding-right: 68px;
+  line-height: 1.5em;
+  margin-bottom: 1em;
+}
+#sponsor_list > h2 {
+  text-transform: uppercase;
+  color: #2f3927;
+  position: relative;
+  top: 1.3em;
+  width: 160px;
+  clear: both;
+    font-weight: 700;
+    font-family: "facitweb-1", "facitweb-2", Helvetica, Arial, sans-serif;
+}
+
+#sponsor_list >article > h3 {
+  /*text-transform: uppercase;*/
+  color: #2f3927;
+  position: relative;
+  clear: both;
+  font-weight: 700;
+  font-family: "facitweb-1", "facitweb-2", Helvetica, Arial, sans-serif;
+}
